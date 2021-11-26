@@ -10,12 +10,11 @@ function Motivation() {
                 </h2>
             </div>
             <p className="motivation-desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                 Fugit iure nemo maxime. Facere magni magnam quia dolore laboriosam autem labore quae eaque harum praesentium.
-                 Voluptatibus pariatur explicabo similique tempore dolor!
-                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                 Fugit iure nemo maxime. Facere magni magnam quia dolore laboriosam autem labore quae eaque harum praesentium.
-                 Voluptatibus pariatur explicabo similique tempore dolor!
+                After doing some reading on SovTech, I believe that their entire direction as company is the perfect fit for me.
+                Creating custom software based on the needs of a customer using different technologies sounds like an excitong challenge.
+                I believe working at SovTech will help me grow because 
+                I'll be constantly learing from industry experts as well as showing what I've got too. This is an opportunity that I will grab with both hands 
+                and prove my worth from day one.
             </p>
         </div>
     )

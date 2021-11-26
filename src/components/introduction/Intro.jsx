@@ -18,9 +18,8 @@ function Intro() {
                         </div>
                     </div>
                     <p className="intro-description">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                        Qui vel nemo doloribus saepe adipisci unde ullam explicabo,
-                        molestias harum perspiciatis?
+                        Welcome and thanks for visiting my page. I'm currently a third year student studying computer science. 
+                        I'm in my final year so soon I'll be a fully fledged graduate.
                     </p>
                 </div>
             </div>

@@ -16,14 +16,13 @@ function about() {
             <div className="about-right">
                 <h1 className="about-title">About me</h1>
                 <p className="about-sub">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                    Ipsam ?
+                    Hardworking, creative and passionate
                 </p>
                 <p className="about-desc">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                    Ipsam quisquam magni necessitatibus quibusdam. Aspernatur, 
-                    numquam? Quisquam voluptatum, nemo enim consequuntur, 
-                    at saepe labore facilis ipsam perspiciatis rerum odit veniam eligendi.
+                    On this computer science journey I have embarked on, I have pushed myself through all the challenges
+                    a computer can throw at you but in all those frustrations I have found my passion and I will never let it go. 
+                    From finding my creative side on the frontend to applying my logic to the backend and learing a lot on on the way,
+                    this journey that I have started is only the beginnng and there's much more to come.
                 </p>
                 
                 </div>
