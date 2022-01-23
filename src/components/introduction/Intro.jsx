@@ -18,8 +18,7 @@ function Intro() {
                         </div>
                     </div>
                     <p className="intro-description">
-                        Welcome and thanks for visiting my page. I'm currently a third year student studying computer science. 
-                        I'm in my final year so soon I'll be a fully fledged graduate.
+                        Welcome and thanks for visiting my page. I am a freelance software developer trying to make a difference in the IT space by creating innovative projects and solutions.
                     </p>
                 </div>
             </div>
